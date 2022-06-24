@@ -13,3 +13,5 @@ Ubuntu install vlc media player
 sudo apt update
 sudo apt install vlc
 ```
+---
+![](https://xn--wcs.tk/gf)
