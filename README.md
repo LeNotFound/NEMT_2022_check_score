@@ -6,3 +6,10 @@
 
 ---
 祝各位取得好成绩
+
+---
+Ubuntu install vlc media player  
+```shell
+sudo apt update
+sudo apt install vlc
+```
